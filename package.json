@@ -1,5 +1,5 @@
 {
-  "name": "@UsefSalim/sobrus",
+  "name": "sobrus",
   "version": "1.0.0",
   "description": "sobrus package",
   "main": "index.js",
@@ -15,9 +15,6 @@
   ],
   "author": "salim youssef",
   "license": "MIT",
-  "publishConfig": {
-    "@UsefSalim:registry": "https://npm.pkg.github.com"
-  },
   "bugs": {
     "url": "https://github.com/UsefSalim/sobrus/issues"
   },
